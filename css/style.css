@@ -1,0 +1,96 @@
+.header_bg{
+    
+    background-color: greenyellow;
+    margin-top: 15px;
+}
+
+.header_hg{min-height: 100px;}
+
+.brand,.global_nav,.tools{
+    
+    min-height: 70px;
+    background-color: yellow;
+    margin: 15px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+
+.hero_feature,.hero_call{
+    
+    min-height: 70px;
+    background-color: yellow;
+    margin: 15px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+    
+.item{
+    
+    background-color: forestgreen;
+    margin-top: 15px;
+    min-height: 100px;
+
+}
+
+.padding_right_dis{
+    
+    padding-right: 0px;
+}
+
+.body_hg{
+    
+    min-height: 700px;
+    background-color: greenyellow;
+    margin-top: 15px;
+ }
+.body_hg_1{
+    
+    min-height: 700px;
+    background-color: greenyellow;
+    margin-top: 15px;
+    padding-right: 0px;
+ }
+.body_con_hg{
+    
+    min-height: 600px;
+    background-color: yellow;
+    margin: 50px 0px;
+}
+.body_con_hg_1{
+    
+    min-height: 600px;
+    background-color: yellow;
+padding-top: 50px;
+
+    }
+
+
+.sidebar{
+    
+    padding: 1px 10px;
+}
+
+
+.sidebar_content{
+    
+margin-top: 50px;
+    margin-bottom: 49px;
+}
+
+.footer_hg{
+    
+    min-height: 75px;
+    background-color: greenyellow;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

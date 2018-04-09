@@ -1,0 +1,204 @@
+/*Media CSS here*/
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px){ 
+.header_bg{
+    
+    background-color: deepskyblue;
+    margin-top: 15px;
+}
+
+.header_hg{min-height: 50px;}
+
+.brand,.global_nav,.tools{
+    
+    min-height: 30px;
+    background-color: skyblue;
+    margin: 10px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+
+.hero_feature,.hero_call{
+    
+    min-height: 50px;
+    background-color: skyblue;
+    margin: 15px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+    
+.item{
+    
+    background-color: forestgreen;
+    min-height: 50px;
+    
+
+}
+    .add{margin-top: 0px;}
+.padding_right_dis{
+    
+    padding: 0px;
+    
+}
+
+.body_hg{
+    
+    min-height: 230px;
+    background-color: greenyellow;
+    margin-top: 15px;
+ }
+.body_hg_1{
+    
+    min-height: 700px;
+    background-color: greenyellow;
+    margin-top: 15px;
+    padding-right: 0px;
+ }
+.body_con_hg{
+    
+    min-height: 50px;
+    background-color: yellow;
+    margin: 5px 0px;
+}
+    .artile_living{
+        
+        min-height: 100px;
+    }
+.body_con_hg_1{
+    
+    min-height: 600px;
+    background-color: yellow;
+padding-top: 50px;
+
+    }
+
+
+.sidebar{
+    
+    padding: 1px 10px;
+}
+
+
+.sidebar_content{
+    
+margin-top: 50px;
+    margin-bottom: 49px;
+}
+
+.footer_hg{
+    
+    min-height: 25px;
+    background-color: greenyellow;
+    margin-top: 5px;
+}
+}
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width:768px) and (max-width: 991px) {
+.header_bg{
+    
+    background-color: greenyellow;
+    margin-top: 15px;
+    
+}
+
+.header_hg{min-height: 70px;}
+
+.brand,.global_nav,.tools{
+    
+    min-height: 50px;
+    background-color: yellow;
+    margin: 10px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+
+.hero_feature,.hero_call{
+    
+    min-height: 40px;
+    background-color: yellow;
+    margin: 5px 0px;
+    text-align: center;
+    color:mediumvioletred;
+}
+    
+.item{
+    
+    background-color: forestgreen;
+    margin-top: 15px;
+    min-height: 100px;
+
+}
+
+.padding_right_dis{
+    
+    padding-left: 0px ;
+}
+
+.body_hg{
+    
+    min-height: 500px;
+    background-color: greenyellow;
+    margin-top: 15px;
+ }
+.body_hg_1{
+    
+    min-height: 700px;
+    background-color: greenyellow;
+    margin-top: 15px;
+    padding-right: 0px;
+ }
+.body_con_hg{
+    
+    min-height: 600px;
+    background-color: yellow;
+    margin: 50px 0px;
+}
+.body_con_hg_1{
+    
+/*    min-height: 220px;*/
+/*    background-color: yellow;*/
+
+
+    }
+    
+    .article_feature{
+        
+        min-height: 100px;
+        margin: 15px;
+        
+    }
+    .artile_living{
+        min-height: 300px;
+        
+    }
+
+
+.sidebar{
+    
+
+    min-height: 90px;
+    
+}
+
+
+.sidebar_content{
+    
+    min-height: 90px;
+
+}
+
+.footer_hg{
+    
+    min-height: 55px;
+    background-color: greenyellow;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width:992px) and (max-width: 1199px) { }
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
